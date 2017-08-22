@@ -1,4 +1,4 @@
-# Learn To Build The Social Web From The Social Web
+#### Learn To Build The Social Web From The Social Web
 
 # Participating in the Design and Development of the Web (Hour #1)
 Since we have had the ability to connect two computers together over long distances, 
@@ -75,4 +75,12 @@ needs and progress through shared experience.
 ## Learning Objectives for Hour #4
 * Students will learn how to use Challenge Based Learning to build technical skills while also making contributions toward a higher level goal
 * Students will learn a technique (often used at hackathons) for organizing programmers to design and build something quickly that is often used at hackathons
-shared context and contributions
+shared context and 
+
+# Additional Resources
+* [Github Flow](https://guides.github.com/introduction/flow)
+* [Github Guide To Contributing To Open Source](https://opensource.guide/how-to-contribute/)
+* [How To Use Markdown](https://guides.github.com/features/mastering-markdown/)
+* [How To Use Stackoverflow](https://guides.github.com/features/mastering-markdown/)
+* [Interactive Site for getting started with Git commands in the terminal](http://try.github.io)
+* [Interactive Site for Mastering Git Branching](http://learngitbranching.js.org/)
