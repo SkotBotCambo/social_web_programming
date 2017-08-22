@@ -85,3 +85,4 @@ shared context and
 * [Interactive Site for getting started with Git commands in the terminal](http://try.github.io)
 * [Interactive Site for Mastering Git Branching](http://learngitbranching.js.org/)
 * [Mastering Stackoverflow](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
+* [Hackernoon guide to Social Coding](https://hackernoon.com/how-to-get-started-with-open-source-2b705e726fea)
