@@ -84,3 +84,4 @@ shared context and
 * [How To Use Stackoverflow](https://guides.github.com/features/mastering-markdown/)
 * [Interactive Site for getting started with Git commands in the terminal](http://try.github.io)
 * [Interactive Site for Mastering Git Branching](http://learngitbranching.js.org/)
+* [Mastering Stackoverflow](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
