@@ -1,7 +1,7 @@
 Today's internet is truly standing on the shoulders of giants and in a way, it always has been. The internet and the web
 as we know it is the collective effort of its early citizens who asserted their vision for the web by programming it in much the 
 same way that citizens of a democracy assert their vision by voting.
-With no experience needed, students of this 4-hour Computing Everywhere workshop will cooperatively learn the basics coding and leave being able to 
+With no experience needed, students of this 4-hour Computing Everywhere workshop will cooperatively learn the basics of coding and leave being able to 
 answer the following questions : 
 * ***What is an open-source project? How does it work? How can I find them? How can I help?***
 * ***How can I contribute to an open-source project when I'm just learning to code?*** Students will be surprised to learn that not only can 
