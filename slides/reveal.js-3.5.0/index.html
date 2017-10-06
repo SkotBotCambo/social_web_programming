@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Social Web Programming</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/modified_solar.css">
+		<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<!--Part 1 : Vision of Open Source -->
+				<section id="welcome">
+					<h2>Welcome To Social Web Programming</h1>
+					<h4>A Computing Everywhere Workshop</h3>
+					<p>&nbsp;</p>
+					<p>Instructors : Scott Allen Cambo and Emily Wang</p>
+					<p>Email : cambo@u.northwestern.edu</p>
+				</section>
+
+				<section>
+					<h3>Why Teach This Workshop?</h3>
+					<ol>
+						<li class="fragment">Software is a bigger part of our lives than ever and more people want to learn to program than ever.</li>
+						<li class="fragment">One of the best ways to learn to program is in a social setting.</li>
+					</ol>
+					<aside class="notes" data-markdown>
+						* I'm here teaching this workshop today for two reasons
+							1. Software is a bigger part of lives than ever and more people want to learn to program than ever.
+								* This is great. At the least, you should want to learn something that has a big impact on your life and at the worst you should try something 
+								that a great many people have derived a lot of joy from doing.
+							2. One of the best ways to learn to program is in a social setting.
+								* What I mean is that there is a way in which we often discuss 
+								programming in the context of computer science or computational 
+								thinking. 
+								* That makes sense, in a university one often begins learning  to 
+								program in a computer science class and programming is used as a way
+								to put those concepts in to practice.
+								* In this class, we'll try a different approach which will be mainly
+								  grounded in the ideas of **open-source** and **peer production**.
+					</aside>
+				</section>
+				
+				<section>
+					<h3>What is open source?</h3>
+					<ul>
+						<li class="fragment" style="font-size:0.7em;">Open Exchange</li>
+						<li class="fragment" style="font-size:0.7em;">Participation</li>
+						<li class="fragment" style="font-size:0.7em;">Rapid Prototyping</li>
+						<li class="fragment" style="font-size:0.7em;">Meritocracy</li>
+						<li class="fragment" style="font-size:0.7em;">Community</li>
+						<li class="fragment" style="color:blue;font-size:0.7em;">Democracy (<italic>Code and Other Laws</italic> by Lawrence Lessig)</li>
+					</ul>
+					<p style="font-size:0.6em;">Credit to opensource.com</p>
+					<aside class="notes" data-markdown>
+						* Open Exchange : Information is freely available. We can freely exchange designs, instructions, code
+						* Participation : We are free to collaborate and discuss solutions together.
+						* Rapid Prototyping : fast prototypes lead to quicker failures and there is
+						   the idea that the quicker we fail, we quicker we can discover how to succeed.
+						* Meritocracy : The best idea wins. Seems obvious, but often a less than optimal idea can simply corner a market preventing better ideas from succeeding.
+						* Community : Communities will often form around a common purpose bringing together diverse ideas.
+						* Democracy : I'll also add this as it is a point that people like Lawrence Lessig have started to make which is that with so much of our society being 
+						computationally driven that programmers are not just people who can make 
+						software, they are people who get to decide the structure of modern society. 
+						Google decides how we find information, Amazon decides how we find things to buy, Facebook decides how we learn what our friends are doing. Software
+						is a powerful institution and for those institutions to be democratic, we'll
+						need a way to participate.  Open source is a way that we can participate
+						in those institutions.
+
+						## Note : Mike Devito and I often teach a Computing Everywhere workshop
+						where we discuss algorithmically driven components of culture
+						and society in a bit more detail.  Keep an eye out for that
+						if you find this interesting.
+					</aside>
+
+				</section>
+
+				<section>
+					<h3>Social Web Programming</h3>
+					<ul>
+						<li class="fragment" style="font-size:0.7em;">We'll learn to use Github</li>
+						<li class="fragment" style="font-size:0.7em;">Workshop Github Repository : <a href="https://github.com/scottofthescience/social_web_programming">https://github.com/scottofthescience/social_web_programming</a></li>
+						<li class="fragment" style="font-size:0.7em;">HTML, CSS, <b>Javascript</b></li>
+						<li class="fragment" style="font-size:0.7em;">Question Answering Platforms</li>
+						<li class="fragment" style="font-size:0.7em;">Mob programming</li>
+						<li class="fragment" style="font-size:0.7em;"><i class="em em-pizza"></i><i class="em em-pizza"></i>PIZZA<i class="em em-pizza"></i><i class="em em-pizza"></i></li>
+					</ul>
+
+					<aside class="notes" data-markdown>
+						* I chose the name *Social Web Programming* because 
+							 * we will be focusing on web technologies, specifically javascript
+							 * To do this, we'll leverage a social web meaning that we'll learn
+							 how to use both the people here in this class and the people on the
+							 web to answer questions that come up.
+						* Github : We'll learn to use github, so that we can find open source
+						projects, read their code, and participate in the projects
+						* Workshop Github : This is the first time I'm teaching this workshop and while
+						I am the instructor, you are the community that will benefit from it. Throughout
+						the class, I'm going to be asking you to give lots of feedback to me and your classmates.
+					</aside>
+
+				</section>
+
+				<section>
+					<h3>GitHub</h3>
+					<p>What even is that?</p>
+					<ul>
+						<li><b>Git</b> : version control software</li>
+						<li><b>GitHub</b> : A Hub for projects that use <b>Git</b></li>
+					</ul>
+
+					<aside class="notes" data-markdown>
+						* Git : how many of you have used "Track changes" in MS Word?
+							* This is sort of like that, but the idea is that we can scale to many more people and use this for code
+					</aside>
+				</section>
+
+				<section>
+					<h3>Clone A GitHub Repository</h3>
+					<ol>
+						<li>Copy The Link <a href="https://github.com/scottofthescience/social_web_programming">https://github.com/scottofthescience/social_web_programming</a></li>
+						<li>Open up your github desktop</li>
+						<li>File > Clone Repository > "URL" tab</li>
+						<li>Paste the link</li>
+
+
+				<!-- Clone a repository -->
+
+				<!-- Finding Projects -->
+
+				<!-- Projects -->
+
+				<!-- Part 2 : Peer production -->
+
+				<!-- QA Platforms, Our QA Sheet -->
+
+				<!-- Cold start problems -->
+
+				<!-- QA Platforms -->
+
+				<!-- Ask or Answer a question on StackExchange -->
+
+				<!-- Part 3 : Learning Javascript -->
+
+				<!-- Web Languages HTML,CSS, Javascript -->
+
+				<!-- Developer Tools -->
+
+				<!-- DOM -->
+
+				<!-- HTML Elements -->
+
+				<!-- Attributes -->
+
+				<!-- Classes and IDs -->
+
+				<!-- Pizza Break -->
+
+				<!-- Part 4 : Javascript and Javascript Console -->
+
+				<!-- Part 5 : Reading Real Code Snippets -->
+
+				<!-- Part 6 : Takeaways and creating issues/questions/bugs/enhancements on Github -->
+
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				slideNumber:true,
+				transition:'fade',
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
