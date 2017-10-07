@@ -11,3 +11,4 @@
 * /docs : Where the webpage is
 * /slides : Where the slides are
 * LICENSE : The MIT License describing how people are allowed to use this content.
+* instructor_notes.md : These are notes on how I, Scott, ran the class
