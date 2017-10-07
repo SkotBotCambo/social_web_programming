@@ -11,3 +11,5 @@
 * /docs : Where the webpage is
 * /slides : Where the slides are
 * LICENSE : The MIT License describing how people are allowed to use this content.
+
+# THIS IS SOME STUFF THAT SCOTT DID
