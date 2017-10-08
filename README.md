@@ -15,7 +15,7 @@
 * instructor_notes.md : These are notes on how I, Scott, ran the class
 
 # Additional Resources
-* [W3 Schools](www.w3schools.com)
+* [W3 Schools](https://www.w3schools.com/)
 * [Github Flow](https://guides.github.com/introduction/flow)
 * [Github Guide To Contributing To Open Source](https://opensource.guide/how-to-contribute/)
 * [How To Use Markdown](https://guides.github.com/features/mastering-markdown/)
