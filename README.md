@@ -13,3 +13,13 @@
 * /slides : Where the slides are
 * LICENSE : The MIT License describing how people are allowed to use this content.
 * instructor_notes.md : These are notes on how I, Scott, ran the class
+
+# Additional Resources
+* [Github Flow](https://guides.github.com/introduction/flow)
+* [Github Guide To Contributing To Open Source](https://opensource.guide/how-to-contribute/)
+* [How To Use Markdown](https://guides.github.com/features/mastering-markdown/)
+* [How To Use Stackoverflow](https://guides.github.com/features/mastering-markdown/)
+* [Interactive Site for getting started with Git commands in the terminal](http://try.github.io)
+* [Interactive Site for Mastering Git Branching](http://learngitbranching.js.org/)
+* [Mastering Stackoverflow](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
+* [Hackernoon guide to Social Coding](https://hackernoon.com/how-to-get-started-with-open-source-2b705e726fea)
