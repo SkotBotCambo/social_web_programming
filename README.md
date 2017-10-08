@@ -23,3 +23,6 @@
 * [Interactive Site for Mastering Git Branching](http://learngitbranching.js.org/)
 * [Mastering Stackoverflow](http://duncanlock.net/blog/2013/06/14/the-smart-guide-to-stack-overflow-zero-to-hero/)
 * [Hackernoon guide to Social Coding](https://hackernoon.com/how-to-get-started-with-open-source-2b705e726fea)
+* [Code Academy](www.codeacademy.com)
+* [Data Camp](www.datacamp.com)
+* [Software Carpentry : focused mostly training researchers to program, but they have great resources](https://softwarecarpentry.org)
