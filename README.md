@@ -27,3 +27,4 @@
 * [Code Academy](www.codeacademy.com)
 * [Data Camp](www.datacamp.com)
 * [Software Carpentry : focused mostly training researchers to program, but they have great resources](https://softwarecarpentry.org)
+* [freeCodeCamp : Learn to code while helping non-profit organizations](https://www.freecodecamp.org/)
